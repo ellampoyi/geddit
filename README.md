@@ -7,10 +7,10 @@ Team Name: Ellam Poyi
 
 ### Tech Stack Used
 
-MySQL
-Django
-Flutter
-Firebase Cloud Messaging
+- MySQL
+- Django
+- Flutter 
+- Firebase Cloud Messaging
 
 #### Current features
 
