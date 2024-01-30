@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683903239879",
+    "project_id": "geddit-b3e64",
+    "storage_bucket": "geddit-b3e64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683903239879:android:8732d23a2bdc83c6afa0e2",
+        "android_client_info": {
+          "package_name": "com.ellampoyi.geddit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB946rzaoNlFMK2bKhkA_uQlc3_1_2rzKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
